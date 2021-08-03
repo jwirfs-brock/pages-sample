@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+# This is an H1
 
+## Welcome everyone to my sandbox site!
+
+### This is an H3
 
 #### Here are some example pages:
 
