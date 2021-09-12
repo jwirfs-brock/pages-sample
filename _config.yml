@@ -30,7 +30,8 @@ github_username:  jwirfs-brock
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+theme: minima
+#  - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 #header_pages:
